@@ -37,4 +37,4 @@ var RomanNumeral = /** @class */ (function () {
 }());
 exports.RomanNumeral = RomanNumeral;
 var n = new RomanNumeral();
-n.of('CCL');
+n.of('A');
